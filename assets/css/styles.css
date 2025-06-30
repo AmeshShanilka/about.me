@@ -585,6 +585,6 @@ img {
   }
 }
 
-.dns{
-opacity: 1%;
+.dns {
+  opacity: calc(none);
 }
